@@ -1,1 +1,1 @@
-# titanic-data-analysis
+# eda-titanic-dataset
